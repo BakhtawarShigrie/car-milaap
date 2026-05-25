@@ -52,7 +52,7 @@ export default function InsideWindshield() {
               {/* Note: Standard <img> tag used to avoid next/image domain configuration issues. 
                   If your next.config.ts has Cloudinary configured, you can switch to <Image> */}
               <img 
-                src="https://res.cloudinary.com/duhpsw6he/image/upload/v1779721563/thetags76_kiaehd.jpg" 
+                src="https://res.cloudinary.com/duhpsw6he/image/upload/v1779745450/icon-7797704_640_ru2m0d.png" 
                 alt="CarMilaap Sticker inside windshield" 
                 className="w-full max-w-md h-auto object-cover transform hover:scale-105 transition-transform duration-700 ease-in-out"
               />

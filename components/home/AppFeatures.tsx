@@ -7,19 +7,19 @@ export default function AppFeatures() {
       id: 1,
       title: "App Management Feature",
       description: "Riya 🦋⃟💗 ke sajde mei itna rehne lagay, deewana deewana dunya kehne lagay, deewana deewana duniya kehne lagay 💔",
-      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779721563/thetags76_kiaehd.jpg"
+      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779745450/icon-7797704_640_ru2m0d.png"
     },
     {
       id: 2,
       title: "Search any vehicle",
       description: "kflkdalkv kldfdkfkal fafjajpjfae fhighirwkdke ceojoiwrjofwr gjgropwjgpojwpojefewmce cewojcpowejf wejfpojewf wejfpojwefj",
-      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779721563/thetags76_kiaehd.jpg"
+      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779745450/icon-7797704_640_ru2m0d.png"
     },
     {
       id: 3,
       title: "Free PDF Copy",
       description: "kldfdkfkal fafjajpjfae fhighirwkdke ceojoiwrjofwr gjgropwjgpojwpojefe kldfdkfkal fafjajpjfae fhighirwkdke ceojoiwrjofwr gjgropwjgpojwpojefe",
-      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779721563/thetags76_kiaehd.jpg"
+      imgSrc: "https://res.cloudinary.com/duhpsw6he/image/upload/v1779745450/icon-7797704_640_ru2m0d.png"
     }
   ];
 

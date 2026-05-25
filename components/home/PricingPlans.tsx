@@ -5,7 +5,7 @@ export default function PricingPlans() {
   const plans = [
     {
       name: 'Basic Plan',
-      price: 'Rs. 499',
+      price: 'Rs. 999',
       duration: 'Lifetime',
       description: 'Single car owner ke liye behtareen aur budget-friendly plan.',
       features: [
@@ -19,7 +19,7 @@ export default function PricingPlans() {
     },
     {
       name: 'Standard Plan',
-      price: 'Rs. 899',
+      price: 'Rs. 1,499',
       duration: 'Lifetime',
       description: 'Do gariyon ke liye perfect package, discounted price par.',
       features: [
@@ -34,7 +34,7 @@ export default function PricingPlans() {
     },
     {
       name: 'Family Plan',
-      price: 'Rs. 1499',
+      price: 'Rs. 8,999',
       duration: 'Lifetime',
       description: 'Poori family ki gariyon ko secure karne ke liye best value.',
       features: [

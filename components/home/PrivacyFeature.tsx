@@ -15,7 +15,7 @@ export default function PrivacyFeature() {
             {/* Main Image */}
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white w-full max-w-md">
               <img 
-                src="https://res.cloudinary.com/duhpsw6he/image/upload/v1779721563/thetags76_kiaehd.jpg" 
+                src="https://res.cloudinary.com/duhpsw6he/image/upload/v1779745450/icon-7797704_640_ru2m0d.png" 
                 alt="CarMilaap Feature" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700 ease-in-out"
               />
