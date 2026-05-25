@@ -1,7 +1,8 @@
 import Hero from "@/components/home/Hero";
 import Features from "@/components/home/Features";
-// 1. StickerShowcase import karein
-import StickerShowcase from "@/components/home/StickerShowcase"; 
+import StickerShowcase from "@/components/home/StickerShowcase";
+// 1. Naya component import karein
+import SecureConnection from "@/components/home/SecureConnection";
 
 export default function Home() {
   return (
@@ -13,8 +14,11 @@ export default function Home() {
       {/* 2. Features Grid Section */}
       <Features />
 
-      {/* 3. Naya Sticker Showcase Section */}
+      {/* 3. Sticker Showcase (Image Left, Text Right) */}
       <StickerShowcase />
+
+      {/* 4. Secure Connection (Text Left, Image Right, Dark Background) */}
+      <SecureConnection />
 
     </div>
   );
